@@ -7,6 +7,13 @@
 
 
 ![noise](https://user-images.githubusercontent.com/49590432/59329513-0398d000-8d2a-11e9-8391-4f412df71cc5.png)<br><br>
+<p>
+temp_img = mnist.test.images[2]<br>
+temp_noisy_img = temp_img + 1 * np.random.randn(*temp_img.shape)<br>
+
+plt.imshow(temp_noisy_img.reshape(28,28), cmap='gray')<br>
+</p>
+<br><br><br>
 
 ![비교](https://user-images.githubusercontent.com/49590432/59329518-072c5700-8d2a-11e9-9a82-11953348a81d.png)
 <H3>upper image is Input image & bottom image is Output image</h3>
