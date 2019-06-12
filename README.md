@@ -8,6 +8,8 @@
 
 ![noise](https://user-images.githubusercontent.com/49590432/59329513-0398d000-8d2a-11e9-8391-4f412df71cc5.png)<br><br>
 <p>
+  <h5> Using this code made some noise in image</h5> 
+  
 temp_img = mnist.test.images[2]<br>
 temp_noisy_img = temp_img + 1 * np.random.randn(*temp_img.shape)<br>
 
