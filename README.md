@@ -29,7 +29,7 @@ plt.imshow(temp_noisy_img.reshape(28,28), cmap='gray')<br>
 <br><br>
 
 
-![3333](https://user-images.githubusercontent.com/49590432/59332611-9c7f1980-8d31-11e9-83fb-e05413e62d69.PNG)
+![3333](https://user-images.githubusercontent.com/49590432/59332729-e10ab500-8d31-11e9-9250-5c6401fc2642.PNG)
 
 
 
