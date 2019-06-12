@@ -6,6 +6,8 @@
 ![2222222222](https://user-images.githubusercontent.com/49590432/59329497-fa0f6800-8d29-11e9-8519-80875f0d619b.PNG)<br><br>
 
 
+<h2><center>Put some noise in image</center></h2>
+
 ![noise](https://user-images.githubusercontent.com/49590432/59329513-0398d000-8d2a-11e9-8391-4f412df71cc5.png)<br><br>
 <p>
   <h4> Using this code made some noise in image</h4> 
@@ -16,7 +18,7 @@ temp_noisy_img = temp_img + 1 * np.random.randn(*temp_img.shape)<br>
 plt.imshow(temp_noisy_img.reshape(28,28), cmap='gray')<br>
 </p>
 <br><br><br>
-
+<h2>Result & Comparison</h2>
 ![비교](https://user-images.githubusercontent.com/49590432/59329518-072c5700-8d2a-11e9-9a82-11953348a81d.png)
 <H3> - upper image is Input image & bottom image is Output image - </h3>
 
