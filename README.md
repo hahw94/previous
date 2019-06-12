@@ -18,13 +18,13 @@ plt.imshow(temp_noisy_img.reshape(28,28), cmap='gray')<br>
 <br><br><br>
 
 ![비교](https://user-images.githubusercontent.com/49590432/59329518-072c5700-8d2a-11e9-9a82-11953348a81d.png)
-<H3>upper image is Input image & bottom image is Output image</h3>
+<H3> - upper image is Input image & bottom image is Output image - </h3>
 
 <br><br>
 
 ![original](https://user-images.githubusercontent.com/49590432/59329521-08f61a80-8d2a-11e9-9e58-bdebab86f5f4.png)
 
-<h3>original image</h3>
+<h3> - original image -</h3>
 
 <br><br>
 
