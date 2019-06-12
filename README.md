@@ -3,7 +3,7 @@
 <h2> Leaky-relu </h2>
 
 ![캡처](https://user-images.githubusercontent.com/49590432/59349208-08727980-8d54-11e9-96bf-77f272a368b1.PNG)
-<p>In this code, I used Leaky relu for better optimize</p>
+<p>In this code, I used Leaky-relu for better optimize</p>
 
 <br><br><br><br><br>
 
