@@ -19,7 +19,7 @@ plt.imshow(temp_noisy_img.reshape(28,28), cmap='gray')<br>
 </p>
 <br><br><br>
 <h2>Result & Comparison</h2>
-![비교](https://user-images.githubusercontent.com/49590432/59329518-072c5700-8d2a-11e9-9a82-11953348a81d.png)
+![비교](https://user-images.githubusercontent.com/49590432/59348927-5fc41a00-8d53-11e9-882f-80649adf4427.png)
 <H3> - upper image is Input image & bottom image is Output image - </h3>
 
 <br><br>
