@@ -28,7 +28,7 @@ plt.imshow(temp_noisy_img.reshape(28,28), cmap='gray')<br>
 
 <h3> - original image -</h3>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 
 ![3333](https://user-images.githubusercontent.com/49590432/59332729-e10ab500-8d31-11e9-9250-5c6401fc2642.PNG)
