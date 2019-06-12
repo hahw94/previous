@@ -23,3 +23,10 @@
 ![3333](https://user-images.githubusercontent.com/49590432/59329605-3d69d680-8d2a-11e9-9e3d-2061f72b968d.PNG)
 
 
+Period: 0001 cost = 2.635733213<br>
+Period: 0011 cost = 0.730518100<br>
+Period: 0021 cost = 0.616208915<br>
+Period: 0031 cost = 0.553452830<br>
+Period: 0041 cost = 0.506920440<br>
+Period: 0050 cost = 0.452219454<br>
+Accuracy: 0.942
