@@ -29,7 +29,8 @@ plt.imshow(temp_noisy_img.reshape(28,28), cmap='gray')<br>
 <br><br>
 
 
-![3333](https://user-images.githubusercontent.com/49590432/59329605-3d69d680-8d2a-11e9-9e3d-2061f72b968d.PNG)
+![3333](https://user-images.githubusercontent.com/49590432/59332611-9c7f1980-8d31-11e9-83fb-e05413e62d69.PNG)
+
 
 
 Period: 0001 cost = 2.635733213<br>
