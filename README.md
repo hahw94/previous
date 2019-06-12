@@ -44,7 +44,7 @@ plt.imshow(temp_noisy_img.reshape(28,28), cmap='gray')<br>
 ![3333](https://user-images.githubusercontent.com/49590432/59332729-e10ab500-8d31-11e9-9250-5c6401fc2642.PNG)
 
 
-<h2>Process of deep learning and Result of Accuracy</h2>
+<h2>Process Of Deep Learning And Result Of Accuracy</h2>
 Period: 0001 cost = 2.635733213<br>
 Period: 0011 cost = 0.730518100<br>
 Period: 0021 cost = 0.616208915<br>
