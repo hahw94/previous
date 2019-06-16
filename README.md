@@ -30,7 +30,7 @@
 </p>
 
 <p>
-   - 'ising_update' is for updating ising model, it is decide what will be next, total은 i((n-1) ~ (n+1) divided by N and j(m-1) through(m+1) divided by M.
+   - 'ising_update' is for updating ising model, it is decide what will be next, total can i((n-1) ~ (n+1) divided by N and j(m-1) through(m+1) divided by M.
 
 Furthermore, if these values are positive, there is no change in the spin, but they are less than zero or equal to zero.
 
