@@ -15,7 +15,7 @@
 <p> For using one hot method, I made array for testing(50 people) and training(325 people)
   <br><br>
   
-  - Set the target value like this 
+  <h5>Set the target value like this</h5> 
   <ul>
     <li> a data : 0</li>
     <li> e data : 1</li>
