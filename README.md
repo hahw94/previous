@@ -1,7 +1,6 @@
 # ising-model
-<h2>1st step</h2>
 
-<h2>Code</h2>
+<h4>1. Code</h4>
 
 ![111111111111](https://user-images.githubusercontent.com/49590432/59559347-ff2d2980-903f-11e9-944b-916252a53948.PNG)
 
