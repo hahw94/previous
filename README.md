@@ -46,6 +46,6 @@
 
 <h3>5. Result</h3>
 
-<p> Using logits NN, I could got 100% maximum accuracy </p>
+<p> When I test to using logits Neural Network, I could got 100% maximum accuracy </p>
 
 ![result](https://user-images.githubusercontent.com/49590432/59564813-52c26600-9086-11e9-9b69-07cb30069de9.PNG)
