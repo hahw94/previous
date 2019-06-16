@@ -1,12 +1,9 @@
 # ising-model
 <h2>1st step</h2>
-<p>
-  <h4>code</h4>
-  def random_spin(N,M): <br>
-    return np.random.choice([-1, 1], size=(N, M))<br>
 
-random_spin(7,7)<br><br>
-</p>
+<h2>Code</h2>
+
+![111111111111](https://user-images.githubusercontent.com/49590432/59559347-ff2d2980-903f-11e9-944b-916252a53948.PNG)
 
 ![array 77](https://user-images.githubusercontent.com/49590432/59559285-92fdf600-903e-11e9-9df4-6fa47bf3de38.PNG)
 
