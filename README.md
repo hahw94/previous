@@ -12,7 +12,9 @@
 
 <h3>2. Make array for training and testing (for onehot method)</h3>
 
-<p> For using one hot method, I made array for testing(50 people) and training(325 people) </p>
+<p> For using one hot method, I made array for testing(50 people) and training(325 people) <br> a data : 0 <br> e data : 1 <br> 
+  i data : 2 <br> o data : 3 <br> u data : 4
+</p>
 
 ![screencapture-localhost-8888-notebooks-OneDrive-edy-Python-Machine-learning-for-everyone-aeiou-working-place-aeiou-data-ipynb-2019-06-16-22_18_51](https://user-images.githubusercontent.com/49590432/59564697-ea26b980-9084-11e9-8a17-6e44941b0c74.png)
 
