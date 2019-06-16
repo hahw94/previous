@@ -2,6 +2,8 @@
 
 <h3>1. Indexing input data</h3>
 
+<p> Each text file has 1.5 million data. it consist of 75 people's data so 20,000 data for one person</p>
+
 ![screencapture-localhost-8888-notebooks-OneDrive-edy-Python-Machine-learning-for-everyone-aeiou-working-place-aeiou-data-ipynb-2019-06-16-22_11_49](https://user-images.githubusercontent.com/49590432/59564613-e5add100-9083-11e9-9239-d9f78c15c4fd.png)
 
 ![130만 20만 사진](https://user-images.githubusercontent.com/49590432/59564543-09244c00-9083-11e9-81d5-e4426cd61a8d.PNG)
