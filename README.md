@@ -46,9 +46,24 @@ If the exp (-dE * beta) is greater than a random number, the condition of the fi
 
 <h4>4. Append ising_process image and make sequence image </h4><br>
 
+<p>
+   - By this function we can show successive changes of ising model. Use an interact tool from the ipywidgets library. We've introduced a way to see visually using frame.
+</p>
+
+![6666666666](https://user-images.githubusercontent.com/49590432/59559351-05bba100-9040-11e9-9875-d3260235d9c9.PNG)
+
+
+![3333](https://user-images.githubusercontent.com/49590432/59559287-972a1380-903e-11e9-8df2-90b3c640817a.PNG)
+
+
+
+
+<br><br><br>
+
+<h4>5. Creating an image sequence using </h4><br>
 
 <p>
-  -Create a random spin field plot called images.
+  - Create a random spin field plot called images.
 
 Add ising_process to this picture to add multiple pictures
 
@@ -57,16 +72,6 @@ Then you print out the image using the function you created above as follows:
 You can view the changing ising_model.
 
 </p>
-
-![3333](https://user-images.githubusercontent.com/49590432/59559287-972a1380-903e-11e9-8df2-90b3c640817a.PNG)
-
-
-
-![6666666666](https://user-images.githubusercontent.com/49590432/59559351-05bba100-9040-11e9-9875-d3260235d9c9.PNG)
-
-<br><br><br>
-
-<h4>5. Creating an image using a library </h4><br>
 
 ![777777777777777](https://user-images.githubusercontent.com/49590432/59559352-06ecce00-9040-11e9-85ca-317579c86414.PNG)
 
