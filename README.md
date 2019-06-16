@@ -1,12 +1,14 @@
 # ising-model
 
-<h4>1. Make randomly spin field</h4>
+<h4>1. Make randomly spin field</h4><br>
+
+<p>By this code we can get N*M arrray, value is radomly +1 or -1</p>
 
 ![111111111111](https://user-images.githubusercontent.com/49590432/59559347-ff2d2980-903f-11e9-944b-916252a53948.PNG)
 
 ![array 77](https://user-images.githubusercontent.com/49590432/59559285-92fdf600-903e-11e9-9df4-6fa47bf3de38.PNG)
 
-<p>By this code we can get N*M arrray, value is radomly +1 or -1</p>
+<br><br><br>
 
 
 ![222222222222222](https://user-images.githubusercontent.com/49590432/59559348-00f6ed00-9040-11e9-97df-483959b846c2.PNG)
