@@ -2,7 +2,7 @@
 
 <h4>1. Make randomly spin field</h4><br>
 
-<p>By this code we can get N*M arrray, value is radomly +1 or -1</p>
+<p> - By this code we can get N*M arrray, value is radomly +1 or -1</p>
 
 ![111111111111](https://user-images.githubusercontent.com/49590432/59559347-ff2d2980-903f-11e9-944b-916252a53948.PNG)
 
