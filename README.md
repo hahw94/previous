@@ -13,7 +13,8 @@
 <h3>2. Make array for training and testing (for onehot method)</h3>
 
 <p> For using one hot method, I made array for testing(50 people) and training(325 people)
-  <br>
+  <br><br>
+  
   - Set the target value like this 
   <ul>
     <li> a data : 0</li>
