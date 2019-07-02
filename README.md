@@ -56,7 +56,8 @@
 ![screencapture-localhost-8888-notebooks-OneDrive-edy-Python-Machine-learning-for-everyone-aeiou-working-place-aeiou-data-ipynb-2019-06-16-22_27_57](https://user-images.githubusercontent.com/49590432/59564799-17c03280-9086-11e9-81d6-033be2b47451.png)
 
 
-![outputdata](https://user-images.githubusercontent.com/49590432/59564545-09bce280-9083-11e9-9bf4-6e4f8a01395c.PNG)
+![temp](https://user-images.githubusercontent.com/49590432/60484469-ce522300-9cd4-11e9-86ea-72362f227f6d.PNG)
+
 
 <br><br><br>
 
