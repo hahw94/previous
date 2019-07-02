@@ -28,10 +28,11 @@
 ![screencapture-localhost-8888-notebooks-OneDrive-edy-Python-Machine-learning-for-everyone-aeiou-working-place-aeiou-data-ipynb-2019-06-16-22_18_51](https://user-images.githubusercontent.com/49590432/59564697-ea26b980-9084-11e9-8a17-6e44941b0c74.png)
 
 
-![111111111](https://user-images.githubusercontent.com/49590432/60484168-7961dd00-9cd3-11e9-807a-30e1c5423d87.PNG)
+![65method](https://user-images.githubusercontent.com/49590432/60484299-0147e700-9cd4-11e9-967f-07f4a1a90926.PNG)
 
 
-![22222222222222](https://user-images.githubusercontent.com/49590432/60484171-79fa7380-9cd3-11e9-8469-48b9a9ef9513.PNG)
+![10method](https://user-images.githubusercontent.com/49590432/60484301-01e07d80-9cd4-11e9-9809-40e8f318714e.PNG)
+
 
 <br><br><br>
 
