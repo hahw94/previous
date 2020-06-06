@@ -1327,7 +1327,7 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![output_21_0](https://user-images.githubusercontent.com/49590432/83952351-4a54d380-a873-11ea-8189-9a1fbf5c7987.png)
 
 
 ## 폰트 찾기
