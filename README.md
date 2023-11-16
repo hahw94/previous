@@ -17,6 +17,7 @@
 5. "git pull"로 git 메인저장소와 파일 최신화를 한번 진행한다.
 
 6. git subtree add --prefix=기존레포지토리명(또는 사용할 저장폴더 이름) 기존레포지토리주소(깃허브에서 주소 복사해오기) 기존메인브랜치명(보통 master)로 필요한 저장소들을 로컬에 전부 저장한다.
-<br> -> example) git subtree add --prefix=aeiou https://github.com/hahw94/aeiou.git master / git subtree add --prefix=ising https://github.com/hahw94/ising-model.git master
+<br> -> example) git subtree add --prefix=aeiou https://github.com/hahw94/aeiou.git master
+<br> -> example2) git subtree add --prefix=ising https://github.com/hahw94/ising-model.git master
 
-7. 모두 완료됐다면 "git push"로 파일을 모두 업로드하고 잘 업로드 됐는지 확인한다. 잘됐으면 끝!
+8. 모두 완료됐다면 "git push"로 파일을 모두 업로드하고 잘 업로드 됐는지 확인한다. 잘됐으면 끝!
