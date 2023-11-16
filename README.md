@@ -2,7 +2,7 @@
 
 안쓰는 저장소를 모아놓는 공간!
 
-<title> github repository 합치는 방법(윈도우 기준) </title>
+<h1> github repository 합치는 방법(윈도우 기준) </h1>
 
 1. 먼저 여러 저장소를 합칠 메인저장소를 하나 만들어준다(readme.md 파일까지 생성해주기)
 
