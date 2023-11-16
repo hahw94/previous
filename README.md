@@ -2,7 +2,7 @@
 
 안쓰는 저장소를 모아놓는 공간!
 
-<br><br><br><br><br>
+<br><br>
 
 <h3> github repository 합치는 방법(윈도우 기준) </h3>
 
