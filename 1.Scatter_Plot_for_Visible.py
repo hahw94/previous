@@ -7,11 +7,7 @@ import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings("ignore")
 
-def create_folder(temp_path):
-    if os.path.isdir(temp_path):
-        pass
-    else:
-        os.mkdir(temp_path)
+from plot_definition import create_folder
 
 
 ##### variables #####
@@ -54,9 +50,9 @@ plt.legend(loc=(1.02, 0.02))  # plt.legend(loc = 'best')
 
 ##### save image #####
 try:
-    plt.savefig(f"{save_path}{file_name}.png")
+    plt.savefig(f"{save_path}{file_name}.png", bbox_inches = 'tight')
 except:
     create_folder(save_path)
-    plt.savefig(f"{save_path}{file_name}.png")
+    plt.savefig(f"{save_path}{file_name}.png", bbox_inches = 'tight')
 
 plt.show()
